@@ -1,6 +1,5 @@
 # 20CE059 Dev Nakum
 
-
 def swapCase(str):
     ans=""
     for i in str:
