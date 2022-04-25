@@ -1,6 +1,3 @@
-from numpy import sort
-
-
 str = input()   #take input from the user
 
 freq={}
